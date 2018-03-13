@@ -1,7 +1,7 @@
-# DS_Automation_Level1
+# DS_Automation_Level 1
 
 
-Instructions
+# Instructions
 Clone this branch and send your changes zipped via email. 
 Please don’t commit changes or folk branch directly on GitHub
 
