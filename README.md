@@ -3,10 +3,10 @@
 
 ## Instructions
 
-..* Clone the Solution locally
-..* Open The Solution in VS
-..* Build the Solution/Restore Nuget packages
-..* Execute/Debug Tests
++ Clone the Solution locally
++ Open The Solution in VS
++ Build the Solution/Restore Nuget packages
++ Execute/Debug Tests
 
 
 Please send the completed assesment via Zip
