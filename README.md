@@ -10,7 +10,7 @@
 
 
 Please send the completed assesment via Zip
-Please don’t **commit changes or folk** branch directly on GitHub
+Please don’t **commit changes or fork** branch directly on GitHub
 
 
 
